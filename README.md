@@ -1,4 +1,7 @@
-# test coverage for  [foundation-sites (v6.3.1)](http://foundation.zurb.com/sites)  [![npm package](https://img.shields.io/npm/v/npmtest-foundation-sites.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-foundation-sites) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-foundation-sites.svg)](https://travis-ci.org/npmtest/node-npmtest-foundation-sites)
+# npmtest-foundation-sites
+
+#### test coverage for  [foundation-sites (v6.3.1)](http://foundation.zurb.com/sites)  [![npm package](https://img.shields.io/npm/v/npmtest-foundation-sites.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-foundation-sites) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-foundation-sites.svg)](https://travis-ci.org/npmtest/node-npmtest-foundation-sites)
+
 #### The most advanced responsive front-end framework in the world.
 
 [![NPM](https://nodei.co/npm/foundation-sites.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/foundation-sites)
